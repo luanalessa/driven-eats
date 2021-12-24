@@ -33,7 +33,7 @@ header h3{
 }
 
 main{
-   margin-bottom: 250px;
+   margin-bottom: 100px;
    margin-top: 140px;
    padding: 15px;
 }
@@ -156,7 +156,7 @@ footer{
     align-items: center;
 }
 
-.submit{
+.submit-order{
     all: unset;
     width: 50%;
     min-width: 364px;
@@ -183,10 +183,12 @@ footer{
     border:7px solid #32B72F;
 }
 
-.select{
+.select-icon{
+    display: none;
     width: 15.44px;
     height: 15.44px;
+}
 
-    cursor: pointer;
-
+.request{
+    background: #32B72F;
 }
