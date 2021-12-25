@@ -13,10 +13,9 @@
 
 ## <p align = "left"> 🟢 Tecnologias</p>
 
-- [HTML](https://reactjs.org/)
-- [Javascript](https://www.typescriptlang.org/)
-- [CSS](https://styled-components.com//)
-
+- [HTML](https://pt.wikipedia.org/wiki/HTML5)
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 </br>
 
