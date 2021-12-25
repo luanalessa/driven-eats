@@ -200,6 +200,8 @@ footer{
     left: 0px;
     top: 0px;
 
+    z-index: 1;
+
     background: rgba(255, 255, 255, 0.9);
 
     display:none;
@@ -215,7 +217,7 @@ footer{
 
 #user-order{
     width: 377px;
-    height: 353px;
+    height: 393px;
     left: 19px;
     top: calc(50% - 353px/2 - 0.5px);
 
@@ -247,7 +249,7 @@ footer{
 
 #user-order table{
     width: 330px;
-    height: 130px;
+    height: 180px;
     font-size: 22px;
     line-height: 26px;
     letter-spacing: 0.018em;
