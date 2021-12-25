@@ -1,4 +1,5 @@
 const order = {};
+let total = 0;
 
 const options = document.querySelectorAll("li");
 const submitOrder = document.querySelector(".submit-order");
@@ -37,7 +38,7 @@ options.forEach((li) => {
 
 submitOrder.addEventListener("click", () => {
     const modal = document.getElementById("modal");
-    let total = 0;
+    total = 0;
 
     modal.style.display = "flex";
 
